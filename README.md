@@ -57,6 +57,6 @@ Optical Character Reader
 
 # openCV을 이용한 image processing
 
-## opencv
+## opencv 설치
 
-> 
+> pip install opencv-python
